@@ -4,5 +4,5 @@
   "title": "Ninja X Lag Update",
   "message": "A new version of Sextymods Fake Lag is available. Update now for the latest features and fixes.",
   "updateUrl": "https://t.me/SEXTYMODS",
-  "forceUpdate": true
+  "forceUpdate": false 
 }
